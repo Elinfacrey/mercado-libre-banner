@@ -1,0 +1,22 @@
+@import "node_modules/@bbva-web-components/bbva-foundations-sass/main";
+
+:host {
+  display: block;
+  box-sizing: border-box;
+}
+
+:host([hidden]), [hidden] {
+  display: none !important;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+.header{
+
+}
+.region{
+  margin-top: 3rem;
+  margin-bottom: 3rem;
+}

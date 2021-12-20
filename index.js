@@ -1,0 +1,1 @@
+export { MercadoLibreBanner } from './src/MercadoLibreBanner.js';
